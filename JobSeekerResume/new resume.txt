@@ -1,0 +1,81 @@
+---------------------------------------------------------
+                        RESUME
+---------------------------------------------------------
+
+Name: Harihar Binwal
+Email: binwalharihar@gmail.com
+GitHub: https://github.com/binwalharihar
+LinkedIn: linkedin.com/in/hariharbinwal
+Phone: 9761111779
+
+EDUCATION:
+- B.Tech in Computer Science
+  Uttrakhand Technical University, Dehradun
+  2020-2024
+  Percentage: 75% (Aggregate)
+
+- 10+2 (Intermediate) with Science stream
+  Saint Theresa Senior Secondary School
+  2018-2019
+  Percentage: 61.2%
+
+SOFT SKILLS:
+- Team Work
+- Problem Solving
+- Time Management
+- Decision Making
+- Communication Skills
+
+WORK EXPERIENCE:
+1. 1-month Training Program at Wells Fargo (Software Engineering Virtual Experience Program)
+   July 2023
+   Completed practical tasks in:
+   - Creating a data model
+   - Implementing a data model
+
+2. Agile Methodology Virtual Experience at Cognizant
+   July 2023
+   Completed practical tasks in:
+   - Waterfall vs. Agile
+   - User Stories
+   - Role Assignments and Ceremonies
+   - Agile Tools and Concepts
+   - Agile Curve Balls
+   - Agile Methodology Review and Additional Resources
+
+SKILLS:
+- LANGUAGES: C++, JavaScript, C, Java, HTML/CSS
+- FRAMEWORKS: React.js, Node.js, Express.js, EJS
+- DATABASES: SQL, MongoDB
+- DEVELOPER TOOLS: Git, GitHub
+
+CERTIFICATIONS AND ACHIEVEMENTS:
+- C/C++ Quiz Certificate (Itronix Solutions)
+- Agile Methodology Virtual Exp. Program Certification (Cognizant)
+- Competitive Programming and Problem Solving: 3* at CodeChef
+  Solved 1000+ questions on platforms including Codechef, LeetCode, etc.
+
+PROJECTS:
+1. Blogging Website
+   LINK: [Provide the actual link here]
+   Full Stack blogging website where users can collaborate and post articles.
+   Other users can read those blog posts from the website.
+   Tech: Node.js, React.js, MongoDB
+
+2. Ecommerce Website
+   LINK: [Provide the actual link here]
+   Full Stack multi-user Ecommerce Website with multiple sellers on a single platform.
+   Users can interact with the web page and wishlist and buy products.
+   Tech: MongoDB, React.js, Node.js
+
+3. Dice Game
+   LINK: [Provide the actual link here]
+   A dice game where two players can enjoy playing the game.
+   The dice gives a random number, and the one with the highest number wins.
+   Tech: JavaScript, HTML, CSS
+
+COURSES:
+- Completed "Data Structures And Algorithm" course by Abdul Bari (Udemy)
+- Completed "Data Structures And Algorithm" course by Dr. Angela Yu (Udemy)
+
+---------------------------------------------------------
